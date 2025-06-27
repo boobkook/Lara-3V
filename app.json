@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "aBQGBDDK#anzSeK4LqE-owcKoBY7Ok2bdnDaSBCyvVugXXHwiCuM.",
       "required": true,
       "value": ""
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "256780404340",
       "required": true,
       "value": "94779062397"
     },
